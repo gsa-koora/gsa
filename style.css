@@ -55,10 +55,6 @@ hr{
   color: red;
   border: red 1px double;
 }
-.bein:visited{
-  background: black;
-  color: red;
-}
 
 @media (min-width : 1025) or (orientation : landscape) {
   body{
