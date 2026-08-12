@@ -197,3 +197,17 @@ hr{
   position: relative;
   left: 35%;
 }
+.first{
+  text-decoration: none;
+  width: 370px;
+  height: 370px;  
+  border-radius: 6%;
+  display: grid;
+  justify-content: center;
+  grid-area: 1/2;
+  background: red;
+  color: black;
+  border: solid 1% white;
+  font-size: xxx-large;
+  margin: 5%;
+}
